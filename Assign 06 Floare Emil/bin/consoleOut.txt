@@ -1,0 +1,96 @@
+5ME
+FIRST LINE OF FILE READ: 5ME   Hasdeu                        Emil                          18708153465
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+SQL-INSERT-STATEMENT: INSERT INTO CLASE (CLASA) VALUES ('5ME ')                                                                                                                                                           
+Connected successfully.
+INSERT INTO CLASE (CLASA) VALUES ("5ME ")
+Done. Statement processed successfully.
+COBOL SAYS: INSERTED SUCCESSFULY, CONGRATS!
+5ME
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+5ME
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+5ME
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+5ME
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+5ME
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '5ME '                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "5ME "
+Done. Statement processed successfully.
+8CPX
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '8CPX'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "8CPX"
+Done. Statement processed successfully.
+SQL-INSERT-STATEMENT: INSERT INTO CLASE (CLASA) VALUES ('8CPX')                                                                                                                                                           
+Connected successfully.
+INSERT INTO CLASE (CLASA) VALUES ("8CPX")
+Done. Statement processed successfully.
+COBOL SAYS: INSERTED SUCCESSFULY, CONGRATS!
+8CPX
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '8CPX'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "8CPX"
+Done. Statement processed successfully.
+8CPX
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '8CPX'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "8CPX"
+Done. Statement processed successfully.
+9PLM
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '9PLM'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "9PLM"
+Done. Statement processed successfully.
+SQL-INSERT-STATEMENT: INSERT INTO CLASE (CLASA) VALUES ('9PLM')                                                                                                                                                           
+Connected successfully.
+INSERT INTO CLASE (CLASA) VALUES ("9PLM")
+Done. Statement processed successfully.
+COBOL SAYS: INSERTED SUCCESSFULY, CONGRATS!
+9PLM
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '9PLM'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "9PLM"
+Done. Statement processed successfully.
+9PLM
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '9PLM'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "9PLM"
+Done. Statement processed successfully.
+12FI
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '12FI'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "12FI"
+Done. Statement processed successfully.
+SQL-INSERT-STATEMENT: INSERT INTO CLASE (CLASA) VALUES ('12FI')                                                                                                                                                           
+Connected successfully.
+INSERT INTO CLASE (CLASA) VALUES ("12FI")
+Done. Statement processed successfully.
+COBOL SAYS: INSERTED SUCCESSFULY, CONGRATS!
+12FI
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '12FI'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "12FI"
+Done. Statement processed successfully.
+12FI
+SELECT COUNT(*) FROM CLASE WHERE CLASA = '12FI'                                                                                                                                                                           
+Connected successfully.
+SELECT COUNT(*) FROM CLASE WHERE CLASA = "12FI"
+Done. Statement processed successfully.

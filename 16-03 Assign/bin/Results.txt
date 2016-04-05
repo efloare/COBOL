@@ -1,0 +1,24 @@
+----+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8----+----9----+----0----+----1----+----2----+---
+CLASS OF STUDENT  LAST NAME                     FIRST NAME                    SUBJECT                        AVERAGE FOR SUBJECT
+----+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8----+----9----+----0----+----1----+----2----+---
+01                Andreescu                      Gavril                       Mathematics                   06.60
+01                Andreescu                      Gavril                       Romana                        09.50
+01                Andreescu                      Gavril                       Chemistry                     03.50
+01                Andreescu                      Gavril                       Informatics                   08.75
+01                Andreescu                      Gavril                       History                       02.50
+01                Barbu                          Constantin                   Mathematics                   08.50
+01                Barbu                          Constantin                   Romana                        05.00
+01                Barbu                          Constantin                   Chemistry                     07.75
+01                Barbu                          Constantin                   Informatics                   07.66
+01                Cosarca                        Radu                         Mathematics                   09.50
+01                Cosarca                        Radu                         Romana                        09.33
+01                Cosarca                        Radu                         Chemistry                     09.00
+01                Cosarca                        Radu                         Informatics                   08.00
+03                Barbu                          Ilie                         Mathematics                   08.50
+03                Barbu                          Ilie                         Romana                        06.00
+03                Barbu                          Ilie                         Chemistry                     04.25
+03                Barbu                          Ilie                         Informatics                   09.00
+03                Davidescu                      Marian                       Mathematics                   08.00
+03                Davidescu                      Marian                       Romana                        02.00
+03                Davidescu                      Marian                       Chemistry                     04.00
+03                Davidescu                      Marian                       Informatics                   06.00
